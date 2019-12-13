@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  game.cpp
+F:\Program\100hang\work\Cgame\生化危机\game\game.cpp(19,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+F:\Program\100hang\work\Cgame\生化危机\game\game.cpp(27,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+F:\Program\100hang\work\Cgame\生化危机\game\game.cpp(96,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+F:\Program\100hang\work\Cgame\生化危机\game\game.cpp(111,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+F:\Program\100hang\work\Cgame\生化危机\game\game.cpp(133,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 参见“getch”的声明
+F:\Program\100hang\work\Cgame\生化危机\game\game.cpp(167,20): warning C4018: “<”: 有符号/无符号不匹配
+  game.vcxproj -> F:\Program\100hang\work\Cgame\生化危机\Debug\game.exe
